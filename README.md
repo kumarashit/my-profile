@@ -15,7 +15,7 @@ https://github.com/kumarashit
   - https://www.snia.org/news-events/sdc-india/archive/sdc-india-2019-speakers
 - Speaker at **SODA Forum Tokyo 2019**
   - https://sodafoundation.io/event-reports/soda-forum-tokyo-2019/
-- Speaker and Technical presentation at **OSI India** 2019, 2020
+- Speaker and Technical presentation at **OSI India 2019, 2020**
   - https://www.opensourceindia.in
 - **SNIA SDC India 2020** [**The story of hybrid data management across heterogeneous storage for cloud, core and edge**]
   - https://www.snia.org/news-events/sdc-india/archive/2020-sdc-india-abstracts
