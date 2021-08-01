@@ -29,6 +29,6 @@ https://github.com/kumarashit
 ## Open Source community 
 - Organizing member of SODA @ KubeCon-Bengalluru 2019, 2020
 - Organizing member of SODA @ KubeCon-Delhi 2020
-- Co-Oranizing member of SODA meetups
+- Co-Organizer member of SODA meetups
   - https://www.meetup.com/sodafoundationindia
 - Conducting sessions on Open Source contributions and its benefit at different colleges and Universities
