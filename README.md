@@ -25,6 +25,8 @@ https://github.com/kumarashit
   - https://chaoscarnival.io/agenda
 - SNIA SDC India 2021 [**Smart Data Archival in a distributed environment**]
   - https://www.snia.org/events/sdcindia/schedule2021
+- SNIA SDC (Global) 2021 [**Data Protection for Stateful Application: OpenSource Way!!**]
+  - https://storagedeveloper.org/events/sdc-2021/abstracts#container-KumarA
  
 ## Open Source community 
 - Organizing member of SODA @ KubeCon-Bengalluru 2019, 2020
