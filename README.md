@@ -4,9 +4,9 @@
 https://github.com/kumarashit
 
 ## Roles
-- Lead Architect at Huawei Technologies (Feb'2019 -  till Date)
+- Lead Architect at Huawei Technologies (Feb'2019 -  Feb'2022)
 - Ex-Veritas (July'2006 - Jan-2019)
-- SODA Foundation India Outreach community member (Jan'2020 - till Date)
+- SODA Foundation India Outreach community member (Jan'2020 - Feb'2022)
   - The Outreach Committee oversees evangelism, communications, events & training
 - Project maintainer and lead for SODA native projects
  
